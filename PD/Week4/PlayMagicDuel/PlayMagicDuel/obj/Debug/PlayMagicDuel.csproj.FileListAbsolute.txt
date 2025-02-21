@@ -1,0 +1,7 @@
+D:\PlayMagicDuel\PlayMagicDuel\bin\Debug\PlayMagicDuel.exe.config
+D:\PlayMagicDuel\PlayMagicDuel\bin\Debug\PlayMagicDuel.exe
+D:\PlayMagicDuel\PlayMagicDuel\bin\Debug\PlayMagicDuel.pdb
+D:\PlayMagicDuel\PlayMagicDuel\obj\Debug\PlayMagicDuel.csproj.AssemblyReference.cache
+D:\PlayMagicDuel\PlayMagicDuel\obj\Debug\PlayMagicDuel.csproj.CoreCompileInputs.cache
+D:\PlayMagicDuel\PlayMagicDuel\obj\Debug\PlayMagicDuel.exe
+D:\PlayMagicDuel\PlayMagicDuel\obj\Debug\PlayMagicDuel.pdb

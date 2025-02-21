@@ -1,0 +1,7 @@
+D:\MagicalDuelChallenge\MagicalDuelChallenge\bin\Debug\MagicalDuelChallenge.exe.config
+D:\MagicalDuelChallenge\MagicalDuelChallenge\bin\Debug\MagicalDuelChallenge.exe
+D:\MagicalDuelChallenge\MagicalDuelChallenge\bin\Debug\MagicalDuelChallenge.pdb
+D:\MagicalDuelChallenge\MagicalDuelChallenge\obj\Debug\MagicalDuelChallenge.csproj.AssemblyReference.cache
+D:\MagicalDuelChallenge\MagicalDuelChallenge\obj\Debug\MagicalDuelChallenge.csproj.CoreCompileInputs.cache
+D:\MagicalDuelChallenge\MagicalDuelChallenge\obj\Debug\MagicalDuelChallenge.exe
+D:\MagicalDuelChallenge\MagicalDuelChallenge\obj\Debug\MagicalDuelChallenge.pdb
